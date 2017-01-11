@@ -1,4 +1,4 @@
-# JS102 Functions
+# JS101 Functions
 
 ### Functions
 The basis of DRY: allows you to not repeat yourself

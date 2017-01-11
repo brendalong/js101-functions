@@ -1,5 +1,7 @@
 //define and then invoke
 
+//up till now, code has been written and then run... straight down the page.
+
 var returnNothing = function() {
 	console.log("I don't return anything");
 };
